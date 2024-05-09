@@ -1,0 +1,5 @@
+﻿  MainFrame.cpp
+C:\Users\keith\Downloads\wxwidget\MainFrame.cpp(107,20): warning C4018: '<': signed/unsigned mismatch
+  wxwidget.vcxproj -> C:\Users\keith\Downloads\wxwidget\Debug\wxwidget.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

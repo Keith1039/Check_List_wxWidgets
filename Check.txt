@@ -1,0 +1,4 @@
+3
+make_stuff 1
+go_home 1
+Live_life 0
